@@ -6,4 +6,4 @@ Static pages for the Plazio app (Krug-Digital), served by GitHub Pages from bran
 - `impressum.html`: legal notice (must match the notice inside the app)
 - `style.css`: shared styles
 
-The contact placeholders (`[NAME]`, `[ANSCHRIFT]`, `[E-MAIL]`) in `de.html`, `en.html` and `impressum.html` must be replaced with the real publisher details before the store listing goes live.
+Publisher details (name, address, e-mail, phone) are the same as in the other Krug-Digital apps.
